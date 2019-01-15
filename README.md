@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi everyone !
+
+Loadingtoplay here, I went here by curiosity.
+I don't know what to write right now.
+
